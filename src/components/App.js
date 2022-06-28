@@ -21,7 +21,7 @@ const App = () => {
             <br /> announcements and our launch deals.
           </p>
           <div className="d-flex email">
-            <input type="text" placeholder="Email Address" id="input" />
+            <input type="text" placeholder="" id="input" />
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="16"
