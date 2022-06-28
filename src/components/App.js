@@ -41,7 +41,7 @@ const App = () => {
           <img
             src="https://res.cloudinary.com/dxayftnxb/image/upload/v1579716447/hero-desktop_ce8lgg.jpg"
             id="image"
-            alt="girl model"
+            alt=""
           />
         </div>
       </div>
